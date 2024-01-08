@@ -1,4 +1,4 @@
-![logo](Brown Wood Minimalist Profile LinkedIn Banner.png)
+![logo](https://github.com/aniketmondal1210/aniketmondal1210/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aniket Mondal</h1>
 <h3 align="center">A passionate Data Scientist and ML Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" >
