@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aniket21destiny@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Imitation is the sincerest form of flattery, but remember, the original is always worth more than the copy! 👾✨ #Trailblazer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
