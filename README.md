@@ -27,7 +27,7 @@
   <a href="https://auth.geeksforgeeks.org/user/aniketmondal1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketmondal1210" height="30" width="40" /></a>
 </p>
 
-<h3><img height="25" src="https://media1.tenor.com/m/GVk4jB2u_i8AAAAd/coding.gif"/>Languages and Tools:</h3>
+<h3><img height="25" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474k4ogv99xk7ubdr9t2u16pycxps5ndz34kmtcisd&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h3><img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> Github Stats:</h3>
