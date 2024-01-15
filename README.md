@@ -6,13 +6,43 @@
 
 <h3><img height="30" src="https://media4.giphy.com/media/5quAQha5cHPayUytEh/giphy.gif?cid=ecf05e47dv4ewvx2qa2b2wgqa361owg5429ctklzlan3hmob&ep=v1_stickers_search&rid=giphy.gif&ct=s"/> About me:</h3>
 
-- 🌱 I’m currently learning **Python**
+- Hi there! 👋
 
-- 💬 Ask me about **Python**
+I'm Aniket Mondal, a CSE(AI/ML) student passionate about technology and coding. Currently, I'm pursuing my B.Tech at LPU.
 
-- 📫 How to reach me **aniket21destiny@gmail.com**
+#### 🚀 What I'm Currently Working On:
 
-- ⚡ **Imitation is the sincerest form of flattery, but remember, the original is always worth more than the copy! 👾✨ #Trailblazer**
+- I'm diving into [Specific Programming Language/Framework] to build [Project/Goal].
+- Exploring [Any Specific Technology or Tool] for [Reason or Project].
+- Collaborating with my peers on [Class/Club/Personal Project].
+
+#### 🌱 I'm Currently Learning:
+
+- [Specific Language or Skill] to enhance my coding proficiency.
+- [Any Technology or Framework] for [Reason or Project].
+
+#### 💬 Let's Connect:
+
+- LinkedIn: [Your LinkedIn Profile]
+- Twitter: [@YourTwitterHandle]
+
+#### 👯 I’m Looking to:
+
+- Connect with other students and developers.
+- Collaborate on interesting projects.
+- Learn from and contribute to the open-source community.
+
+#### 📫 How to Reach Me:
+
+- Email: [Your Email Address]
+- Website/Blog: [Your Personal Website/Blog]
+
+#### ⚡ Fun Fact:
+
+I'm a [Hobby or Interest] enthusiast and believe in the power of technology to [Your Vision or Belief]. Looking forward to connecting with like-minded individuals and learning together!
+
+Happy coding! 🚀
+
 
 <h3><img height="30" src="https://im3.ezgif.com/tmp/ezgif-3-b777464894.gif"/> Connect with me:</h3>
 <p align="left">
