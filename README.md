@@ -6,25 +6,13 @@
 
 <h3><img height="30" src="https://media4.giphy.com/media/5quAQha5cHPayUytEh/giphy.gif?cid=ecf05e47dv4ewvx2qa2b2wgqa361owg5429ctklzlan3hmob&ep=v1_stickers_search&rid=giphy.gif&ct=s"/> About me:</h3>
 
-- Hi there! 👋
+#### Hi there! 👋
 
 I'm Aniket Mondal, a CSE(AI/ML) student passionate about technology and coding. Currently, I'm pursuing my B.Tech at LPU.
 
-#### 🚀 What I'm Currently Working On:
-
-- I'm diving into [Specific Programming Language/Framework] to build [Project/Goal].
-- Exploring [Any Specific Technology or Tool] for [Reason or Project].
-- Collaborating with my peers on [Class/Club/Personal Project].
-
 #### 🌱 I'm Currently Learning:
 
-- [Specific Language or Skill] to enhance my coding proficiency.
-- [Any Technology or Framework] for [Reason or Project].
-
-#### 💬 Let's Connect:
-
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [@YourTwitterHandle]
+- Python to enhance my coding proficiency.
 
 #### 👯 I’m Looking to:
 
@@ -34,12 +22,12 @@ I'm Aniket Mondal, a CSE(AI/ML) student passionate about technology and coding. 
 
 #### 📫 How to Reach Me:
 
-- Email: [Your Email Address]
-- Website/Blog: [Your Personal Website/Blog]
+- Email: aniket21destiny@gmail.com
+- Website/Blog: MyTechVoyage.com
 
 #### ⚡ Fun Fact:
 
-I'm a [Hobby or Interest] enthusiast and believe in the power of technology to [Your Vision or Belief]. Looking forward to connecting with like-minded individuals and learning together!
+I'm a Guiter enthusiast and believe in the power of technology to help mankind. Looking forward to connecting with like-minded individuals and learning together!
 
 Happy coding! 🚀
 
