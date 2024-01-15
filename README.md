@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmondal1210&label=Profile%20views&color=0e75b6&style=flat" alt="aniketmondal1210" /> </p>
 
-<h3><img height="35" src="https://media4.giphy.com/media/5quAQha5cHPayUytEh/giphy.gif?cid=ecf05e47dv4ewvx2qa2b2wgqa361owg5429ctklzlan3hmob&ep=v1_stickers_search&rid=giphy.gif&ct=s"/> About me:</h3>
+<h3><img height="30" src="https://media4.giphy.com/media/5quAQha5cHPayUytEh/giphy.gif?cid=ecf05e47dv4ewvx2qa2b2wgqa361owg5429ctklzlan3hmob&ep=v1_stickers_search&rid=giphy.gif&ct=s"/> About me:</h3>
 
 - 🌱 I’m currently learning **Python**
 
