@@ -27,10 +27,10 @@
   <a href="https://auth.geeksforgeeks.org/user/aniketmondal1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketmondal1210" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3><img height="45" src="https://media1.tenor.com/m/GVk4jB2u_i8AAAAd/coding.gif"/>align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> Github Stats
+<h3><img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> Github Stats:</h3>
 <div align="center">
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://my-stats-lemon.vercel.app/api?username=aniketmondal1210&show_icons=true&locale=en&layout=compact&hide_border=true"/>
