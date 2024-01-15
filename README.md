@@ -52,5 +52,3 @@
 <p align="center">
 <img height="150" src="https://media.tenor.com/vlatqJBjMi0AAAAj/among-us.gif"/></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aniketmondal1210" alt="aniketmondal1210" /> </p>
-
