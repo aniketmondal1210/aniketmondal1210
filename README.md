@@ -14,7 +14,7 @@
 
 - ⚡ **Imitation is the sincerest form of flattery, but remember, the original is always worth more than the copy! 👾✨ #Trailblazer**
 
-<h3><img height="45" src="https://media1.tenor.com/m/arL-Och6Y7sAAAAC/connecting-loading.gif"/> Connect with me:</h3>
+<h3><img height="50" src="https://media1.tenor.com/m/arL-Och6Y7sAAAAC/connecting-loading.gif"/> Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aniketmondal121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniketmondal121" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aniketmondal1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniketmondal1210" height="30" width="40" /></a>
