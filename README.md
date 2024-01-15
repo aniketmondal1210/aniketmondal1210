@@ -34,6 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketmondal1210&show_icons=true&locale=en" alt="aniketmondal1210" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210&" alt="aniketmondal1210" /></p>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7033d44fcc8d66f9824500562ecba6bbe82d2688ba671ad81533fbb182bbae67/68747470733a2f2f6d656469612e74656e6f722e636f6d2f766c6174714a426a4d6930414141416a2f616d6f6e672d75732e676966" >
+<img align="right" alt="coding" width="200" src="https://camo.githubusercontent.com/7033d44fcc8d66f9824500562ecba6bbe82d2688ba671ad81533fbb182bbae67/68747470733a2f2f6d656469612e74656e6f722e636f6d2f766c6174714a426a4d6930414141416a2f616d6f6e672d75732e676966" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketmondal1210" alt="aniketmondal1210" /></a> </p>
