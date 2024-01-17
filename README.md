@@ -53,7 +53,7 @@ Happy coding! 🚀
     <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://my-stats-lemon.vercel.app/api?username=aniketmondal1210&show_icons=true&locale=en&layout=compact&hide_border=true"/>
     </a>
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210&" alt="aniketmondal1210" /></p>
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210" alt="aniketmondal1210" /></p>
 </div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketmondal1210" alt="aniketmondal1210" /></a> </p>
 
