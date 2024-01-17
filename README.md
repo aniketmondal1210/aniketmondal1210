@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmondal1210&label=Profile%20views&color=0e75b6&style=flat" alt="aniketmondal1210" /> </p>
 
-<h3><img height="30" src="https://media4.giphy.com/media/5quAQha5cHPayUytEh/giphy.gif?cid=ecf05e47dv4ewvx2qa2b2wgqa361owg5429ctklzlan3hmob&ep=v1_stickers_search&rid=giphy.gif&ct=s"/> About me:</h3>
+<h2><img height="30" src="https://media4.giphy.com/media/5quAQha5cHPayUytEh/giphy.gif?cid=ecf05e47dv4ewvx2qa2b2wgqa361owg5429ctklzlan3hmob&ep=v1_stickers_search&rid=giphy.gif&ct=s"/> About me:</h2>
 
 #### Hi there! 👋
 
@@ -32,7 +32,7 @@ I'm a Guiter enthusiast and believe in the power of technology to help mankind. 
 Happy coding! 🚀
 
 
-<h3><img height="30" src="https://media1.giphy.com/media/nVJN4PlV00ojrfkovH/giphy.gif?cid=ecf05e47e13n62knpzdo56nfbwfk3lcdplh4vh9n0hksbbgs&ep=v1_stickers_search&rid=giphy.gif&ct=s"/> Connect with me:</h3>
+<h2><img height="30" src="https://media1.giphy.com/media/nVJN4PlV00ojrfkovH/giphy.gif?cid=ecf05e47e13n62knpzdo56nfbwfk3lcdplh4vh9n0hksbbgs&ep=v1_stickers_search&rid=giphy.gif&ct=s"/> Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/aniketmondal121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniketmondal121" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aniketmondal1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniketmondal1210" height="30" width="40" /></a>
@@ -45,10 +45,10 @@ Happy coding! 🚀
   <a href="https://auth.geeksforgeeks.org/user/aniketmondal1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketmondal1210" height="30" width="40" /></a>
 </p>
 
-<h3><img height="45" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"/>Languages and Tools:</h3>
+<h2><img height="45" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"/>Languages and Tools:</h2>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3><img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> Github Stats:</h3>
+<h2><img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> Github Stats:</h2>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210&" alt="aniketmondal1210" /></p>
 
