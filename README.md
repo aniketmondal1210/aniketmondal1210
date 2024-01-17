@@ -49,14 +49,10 @@ Happy coding! 🚀
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h3><img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> Github Stats:</h3>
-<div align="center">
-    <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://my-stats-lemon.vercel.app/api?username=aniketmondal1210&show_icons=true&locale=en&layout=compact&hide_border=true"/>
-    </a>
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210" alt="aniketmondal1210" /></p>
-</div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketmondal1210" alt="aniketmondal1210" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketmondal1210" alt="aniketmondal1210" /></a> </p>
 
-<p align="center">
-<img height="150" src="https://media.tenor.com/vlatqJBjMi0AAAAj/among-us.gif"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketmondal1210&show_icons=true&locale=en&layout=compact" alt="aniketmondal1210" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketmondal1210&show_icons=true&locale=en" alt="aniketmondal1210" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210&" alt="aniketmondal1210" /></p>
