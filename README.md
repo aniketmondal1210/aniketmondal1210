@@ -1,6 +1,6 @@
 ![logo](https://github.com/aniketmondal1210/aniketmondal1210/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aniket Mondal</h1>
-<h3 align="center">A passionate Data Scientist and ML Engineer from </h3>
+<h3 align="center">A passionate Data Scientist and ML Engineer from 🇮🇳</h3>
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmondal1210&label=Profile%20views&color=0e75b6&style=flat" alt="aniketmondal1210" /> </p>
 
