@@ -50,9 +50,9 @@ Happy coding! 🚀
 
 <h2><img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> Github Stats:</h2>
 
-<p><img height="400" width="500" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210&" alt="aniketmondal1210" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210&" alt="aniketmondal1210" /></p>
 
-<p>&nbsp;<img height="400" width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=aniketmondal1210&show_icons=true&locale=en" alt="aniketmondal1210" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketmondal1210&show_icons=true&locale=en" alt="aniketmondal1210" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketmondal1210&show_icons=true&locale=en&layout=compact" alt="aniketmondal1210" /></p>
 
