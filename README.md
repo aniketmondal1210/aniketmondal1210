@@ -13,6 +13,7 @@ I'm Aniket Mondal, a CSE(AI/ML) student passionate about technology and coding. 
 #### 🌱 I'm Currently Learning:
 
 - Python to enhance my coding proficiency.
+- Also learning C
 
 #### 👯 I’m Looking to:
 
