@@ -8,11 +8,11 @@
 
 #### Hi there! 👋
 
-I'm Aniket Mondal, a CSE(AI/ML) student passionate about technology and coding. Currently, I'm pursuing my B.Tech at LPU.
+I'm Aniket Mondal passionate about technology and coding, a CSE(AI/ML) student pursuing my B.Tech at LPU and CSE(Data Science and Applications) student pursuing my B.S at IITM.
 
 #### 🌱 I'm Currently Learning:
 
-- C to learn basics of Coding.
+- C to learn basics of coding.
 - Python to enhance my coding proficiency.
 - Also learning C++.
 
