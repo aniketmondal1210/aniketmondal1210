@@ -71,3 +71,6 @@ Happy coding! 🚀
 
 <p align="center">
 <img height="150" src="https://media.tenor.com/vlatqJBjMi0AAAAj/among-us.gif"/></p>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
