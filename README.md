@@ -12,9 +12,9 @@ I'm Aniket Mondal passionate about technology and coding, a CSE(AI/ML) student p
 
 #### 🌱 I'm Currently Learning:
 
-- C to learn basics of coding.
+- Diving into Data Structures and Algorithms (DSA) to sharpen my problem-solving skills.
 - Python to enhance my coding proficiency.
-- Also learning C++.
+- Also learning Java.
 
 #### 👯 I’m Looking to:
 
