@@ -44,7 +44,7 @@ Happy coding! 🚀
   <a href="https://codeforces.com/profile/aniketmondal1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aniketmondal1210" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aniket21destiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniket21destiny" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aniket21destiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniket21destiny" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@aniket21destiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aniket21destiny" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@aniket21destiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/e10751ddb9a7926eee083c77d1a99ddca64a2c04/icons/hackerearth.svg" alt="@aniket21destiny" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/aniketmondal1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketmondal1210" height="30" width="40" /></a>
 </p>
 
