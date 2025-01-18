@@ -59,8 +59,7 @@ Happy coding! 🚀
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210" alt="GitHub Streak Stats" />
     </td>
     <td>
-      <a href="http://www.github.com/aniketmondal1210"><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=Aadhithya-            D&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/aniketmondal1210" align="left"></a>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketmondal1210&show_icons=true&locale=en" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
