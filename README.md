@@ -59,7 +59,8 @@ Happy coding! 🚀
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210" alt="GitHub Streak Stats" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketmondal1210&show_icons=true&locale=en" alt="GitHub Stats" />
+      <a href="http://www.github.com/aniketmondal1210"><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=Aadhithya-            D&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/aniketmondal1210" align="left"><img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketmondal1210&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&hide=jupyter%20notebook,cmake" alt="Top Languages" /></a>
     </td>
   </tr>
 </table>
