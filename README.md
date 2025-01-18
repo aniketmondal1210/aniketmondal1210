@@ -47,9 +47,12 @@ Happy coding! 🚀
 <a href="https://www.hackerearth.com/@aniket21destiny" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/e10751ddb9a7926eee083c77d1a99ddca64a2c04/icons/hackerearth.svg" alt="@aniket21destiny" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/aniketmondal1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aniketmondal1210" height="30" width="40" /></a>
 </p>
-
-<h2><img height="45" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"/>Languages and Tools:</h2>
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,flask,git,html,java,linux,mysql,opencv,oracle,pandas,postgresql,python,pytorch,scikit-learn,seaborn,tensorflow)](https://linktr.ee/aniket_mondal)
+<h2><a href="https://linktr.ee/aniket_mondal" target="_blank" style="text-decoration:none;color:inherit;">
+<img height="45" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"/> Languages and Tools:
+</a></h2>
+<a href="https://linktr.ee/aniket_mondal" target="_blank">
+<img src="https://skillicons.dev/icons?i=bootstrap,css,flask,git,html,java,linux,mysql,opencv,oracle,pandas,postgresql,python,pytorch,scikit-learn,seaborn,tensorflow" alt="My Skills">
+</a>
 
 <h2><img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> Github Stats:</h2>
 
