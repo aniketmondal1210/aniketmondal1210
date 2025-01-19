@@ -56,6 +56,9 @@ Happy coding! 🚀
 <table>
   <tr>
     <td>
+      <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketmondal1210" alt="aniketmondal1210" /></a> </p>
+    </td>
+    <td>
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210" alt="GitHub Streak Stats" />
     </td>
     <td>
