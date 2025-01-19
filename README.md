@@ -53,17 +53,18 @@ Happy coding! 🚀
 
 <h2><img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> GitHub Stats:</h2>
 
-<table>
-  <tr>
-    <td>
+<div align="center">
+  <table>
+    <tr>
+      <td>
         <img src="https://github-readme-stats.vercel.app/api?username=aniketmondal1210&show_icons=true&locale=en" alt="Aniket Mondal's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210" alt="Aniket Mondal's GitHub Streak Stats" />
-    </td>
-  </tr>
-</table>
-
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210" alt="Aniket Mondal's GitHub Streak Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketmondal1210&show_icons=true&locale=en&layout=compact" alt="aniketmondal1210" /></p>
 
