@@ -60,7 +60,7 @@ Happy coding! 🚀
         <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketmondal1210&show_icons=true&rank_icon=github&locale=en" alt="aniketmondal1210" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210" alt="Aniket Mondal's GitHub Streak Stats" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210" alt="Aniket Mondal's GitHub Streak Stats"/>
       </td>
     </tr>
   </table>
