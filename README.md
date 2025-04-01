@@ -66,7 +66,7 @@ Happy coding! 🚀
   </table>
 </div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketmondal1210&show_icons=true&locale=en&layout=compact" alt="aniketmondal1210" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketmondal1210&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketmondal1210" alt="aniketmondal1210" /></a> </p>
 
