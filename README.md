@@ -64,9 +64,6 @@ Happy coding! 🚀
 
   <table>
     <tr>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=aniketmondal1210&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
-        </td>
         <td align="center">
           <h2>🔥 Streak Stats</h2>
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210" alt="GitHub Streak Stats"/>
