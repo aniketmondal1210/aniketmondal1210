@@ -53,6 +53,8 @@ Happy coding! 🚀
 
 <h2><img height="45" src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif"/> GitHub Stats:</h2>
 
+## 🔥 Streak Stats
+
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=aniketmondal1210&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
