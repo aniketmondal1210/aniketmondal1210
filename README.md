@@ -95,6 +95,9 @@ Happy coding! 🚀
 
 <h3><img height="50" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"/> GitHub Contributions:</h3>
 <img src="https://github.com/aniketmondal1210/aniketmondal1210/blob/output/github-snake-dark.svg" alt="snake svg" />
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketmondal1210&bg_color=ffffff&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
