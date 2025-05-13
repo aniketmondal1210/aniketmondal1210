@@ -94,7 +94,6 @@ Happy coding! 🚀
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketmondal1210" alt="aniketmondal1210" /></a> </p>
 
 <h3><img height="50" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"/> GitHub Contributions:</h3>
-<img src="https://github.com/aniketmondal1210/aniketmondal1210/blob/output/github-snake-dark.svg" alt="snake svg" />
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketmondal1210&bg_color=ffffff&color=000000&line=007acc&point=ff6f61&area=true&hide_border=false" style="border-radius: 15px;">
 </div>
