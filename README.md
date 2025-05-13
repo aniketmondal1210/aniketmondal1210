@@ -93,12 +93,11 @@ Happy coding! 🚀
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketmondal1210" alt="aniketmondal1210" /></a> </p>
 
-<h3><img height="50" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"/> GitHub Contributions:</h3>
+<h2><img height="50" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"/> GitHub Contributions:</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketmondal1210&bg_color=ffffff&color=000000&line=007acc&point=ff6f61&area=true&hide_border=false" style="border-radius: 15px;">
 </div>
 
-<!--Dynamic Quote card updated everyday at 12 PM--> 
 <h2 align="center">🌟 Thought of the Day 🌟</h2>
 
 <p align="center">
