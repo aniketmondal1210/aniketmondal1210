@@ -94,7 +94,7 @@ Happy coding! 🚀
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketmondal1210" alt="aniketmondal1210" /></a> </p>
 
 <h3 align="left">GitHub Contributions:</h3>
-<img src="https://github.com/Arghya-Dutta1/Arghya-Dutta1/blob/output/github-snake-dark.svg" alt="snake svg" />
+![snake gif](https://github.com/aniketmondal1210/aniketmondal1210/blob/output/github-snake-dark.svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
