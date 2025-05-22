@@ -57,7 +57,7 @@ Happy coding! 🚀
 </h2>
 
 <p> <img align="left" src="https://leetcard.jacoblin.cool/aniket21destiny?ext=contest" alt="aniket21destiny" width="370px"> </p>
-<p> <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=ANIKETMONDAL1210&theme=tokyonight" alt="aniketmondal1210"> </p>
+<p> <img align="right" src="https://codeforces-readme-stats.vercel.app/api/card?username=ANIKETMONDAL1210&theme=tokyonight" alt="aniketmondal1210"> </p>
 <a href="https://www.geeksforgeeks.org/user/aniketmondal1210/">
   <img align="center" src="https://gfgstatscard.vercel.app/aniketmondal1210" alt="GFG stats" />
 </a>
