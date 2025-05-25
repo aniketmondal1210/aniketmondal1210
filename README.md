@@ -101,7 +101,7 @@ Happy coding! 🚀
 <h2 align="center">🌟 Thought of the Day 🌟</h2>
 
 <p align="center">
-   <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=f0f0f0&author_color=000000&quote_color=333333">
+   <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=f0f0f0&author_color=000000&quote_color=333333">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
