@@ -73,14 +73,9 @@ Happy coding! 🚀
 <div align="center">
 
   <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=aniketmondal1210&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
-      </td>
-      <div align="center">
-
-  <table>
-    <tr>
+    <p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=aniketmondal1210&rank_icon=percentile&show=prs_merged,prs_merged_percentage"  width="45%" alt="stats graph"  />
+    </p>
         <td align="center">
           <h2>🔥 Streak Stats</h2>
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210" alt="GitHub Streak Stats"/>
