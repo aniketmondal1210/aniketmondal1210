@@ -16,10 +16,12 @@
 
 I'm Aniket Mondal passionate about technology and coding, a CSE(AI/ML) student pursuing my B.Tech at LPU and CSE(Data Science and Applications) student pursuing my B.S at IITM.
 
-#### 🌱 I'm Currently Learning:
 <p align = 'right'>
 <img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
 </p>
+
+#### 🌱 I'm Currently Learning:
+
 - Diving into Data Structures and Algorithms (DSA) to sharpen my problem-solving skills.
 - Python to enhance my coding proficiency.
 - Also learning Java.
