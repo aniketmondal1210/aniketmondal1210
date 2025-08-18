@@ -4,9 +4,16 @@
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" >
 
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=aniketmondal1210&label=Profile%20views&color=0e75b6&style=flat" alt="aniketmondal1210" /> <br>
-<a herf = "https://wakatime.com/@aniketmondal1210"> <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@aniketmondal1210" /> </a> 
+<img src="https://komarev.com/ghpvc/?username=aniketmondal1210&label=Profile%20views&color=10b981&style=flat" alt="aniketmondal1210" /> <br>
+
+<a href="https://wakatime.com/@aniketmondal1210"> 
+  <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@aniketmondal1210" /> 
+</a> 
 <br>
+<img src="https://img.shields.io/badge/Computer%20Science-Undergraduate-6366f1?style=flat&logo=google-scholar&logoColor=white" alt="CS Undergraduate"/>
+<img src="https://img.shields.io/badge/Academic-3rd%20Year-ec4899?style=flat&logo=openbadges&logoColor=white" alt="Third Year"/>
+<br>
+<img src="https://img.shields.io/badge/AI%2FML-Developer-f97316?style=flat&logo=python&logoColor=white" alt="AI/ML Developer"/>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/aniketmondal1210"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/aniketmondal1210">
 </p>
 
