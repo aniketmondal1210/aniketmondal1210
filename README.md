@@ -113,7 +113,7 @@ Happy coding! 🚀
 <img src="https://github-readme-stats.vercel.app/api?username=aniketmondal1210&rank_icon=percentile&show=prs_merged,prs_merged_percentage"  width="45%" alt="stats graph"  />
     </p>
         <td align="center">
-          <h2>🔥 Streak Stats</h2>
+          <h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
           <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
           <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210" alt="GitHub Streak Stats"/>
           <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
