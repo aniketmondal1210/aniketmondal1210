@@ -77,9 +77,9 @@ Happy coding! 🚀
     <td style="white-space: nowrap;">
       <img src="https://skillicons.dev/icons?i=html" height="40"/>
       <img src="https://skillicons.dev/icons?i=css" height="40"/>
+      <img src="https://skillicons.dev/icons?i=js" height="40"/>
       <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
       <img src="https://skillicons.dev/icons?i=vue" height="40"/>
-      <img src="https://skillicons.dev/icons?i=js" height="40"/>
     </td>
   </tr>
 
@@ -153,7 +153,6 @@ Happy coding! 🚀
     <td style="white-space: nowrap%;">
       <img src="https://skillicons.dev/icons?i=java" height="40"/>
       <img src="https://skillicons.dev/icons?i=py" height="40"/>
-      <img src="https://skillicons.dev/icons?i=js" height="40"/>
     </td>
   </tr>
 
