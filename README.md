@@ -67,99 +67,64 @@ Happy coding! 🚀
 
 <h2><img height="45" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"/>Languages and Tools:</h2>
 <table>
-
-  <!-- WEB DEVELOPMENT -->
   <tr>
     <th align="left">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25" height="25" />
-      Web Development
+      Web Technologies
     </th>
     <td>
-      <img src="https://skillicons.dev/icons?i=html" height="40"/>
-      <img src="https://skillicons.dev/icons?i=css" height="40"/>
-      <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
-      <img src="https://skillicons.dev/icons?i=vue" height="40"/>
-      <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
-      <img src="https://skillicons.dev/icons?i=js" height="40"/>
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask,vue" height="40"/>
     </td>
   </tr>
 
-  <!-- BACKEND & PYTHON STACK -->
   <tr>
     <th align="left">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" height="25" />
-      Backend & Python Stack
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" height="25" />
+      Programming Languages
     </th>
     <td>
-      <img src="https://skillicons.dev/icons?i=python" height="40"/>
-      <img src="https://skillicons.dev/icons?i=django" height="40"/>
-      <img src="https://skillicons.dev/icons?i=flask" height="40"/>
-      <img src="https://skillicons.dev/icons?i=anaconda" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40"/>
-      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40"/>
+      <img src="https://skillicons.dev/icons?i=java,python" height="40"/>
     </td>
   </tr>
 
-  <!-- DATA & ML STACK -->
   <tr>
     <th align="left">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="25" height="25" />
-      Data Science & ML
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="25" height="25" />
+      Version Control & OS
     </th>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
-      <img src="https://skillicons.dev/icons?i=scikitlearn" height="40"/>
-      <img src="https://skillicons.dev/icons?i=opencv" height="40"/>
-      <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
+      <img src="https://skillicons.dev/icons?i=git,linux" height="40"/>
     </td>
   </tr>
 
-  <!-- DATABASES -->
   <tr>
     <th align="left">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="25" height="25" />
       Databases
     </th>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-      <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
-      <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
     </td>
   </tr>
 
-  <!-- DEVOPS / DEPLOYMENT / TOOLS -->
   <tr>
     <th align="left">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="25" height="25" />
-      Tools & Deployment
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="25" height="25" />
+      Data & ML Libraries
     </th>
     <td>
-      <img src="https://skillicons.dev/icons?i=git" height="40"/>
-      <img src="https://skillicons.dev/icons?i=linux" height="40"/>
-      <img src="https://skillicons.dev/icons?i=heroku" height="40"/>
-      <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=sklearn,opencv,pytorch,tensorflow" height="40"/>
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
     </td>
   </tr>
-
-  <!-- LANGUAGES -->
-  <tr>
-    <th align="left">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" height="25" />
-      Languages
-    </th>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java" height="40"/>
-      <img src="https://skillicons.dev/icons?i=py" height="40"/>
-      <img src="https://skillicons.dev/icons?i=js" height="40"/>
-      <img src="https://skillicons.dev/icons?i=ts" height="40"/>
-    </td>
-  </tr>
-
 </table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
 
 <h2 align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ241djRsZXUzaDI1OGQycXlwOWw3b3FhajA5cTQwaHE0NGJ5eGU4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoN2bykCKNOrpNxIlT/giphy.gif" width="40" style="vertical-align: middle;"/>
