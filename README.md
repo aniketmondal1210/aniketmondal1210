@@ -66,31 +66,65 @@ Happy coding! 🚀
 </p>
 
 <h2><img height="45" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"/>Languages and Tools:</h2>
+<table>
+  <tr>
+    <th align="left">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25" height="25" />
+      Web Technologies
+    </th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask,vue" height="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" height="25" />
+      Programming Languages
+    </th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,python" height="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="25" height="25" />
+      Version Control & OS
+    </th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,linux" height="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="25" height="25" />
+      Databases
+    </th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="25" height="25" />
+      Data & ML Libraries
+    </th>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+      <img src="https://skillicons.dev/icons?i=sklearn,opencv,pytorch,tensorflow" height="40"/>
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <!-- Web Technologies -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask,vue" />
-
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=java,python" />
-
-  <!-- Version Control & OS -->
-  <img src="https://skillicons.dev/icons?i=git,linux" />
-
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-
-  <!-- Data & ML Libraries -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <img src="https://skillicons.dev/icons?i=sklearn,opencv,pytorch,tensorflow" />
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+
 
 
 <h2 align="left">
