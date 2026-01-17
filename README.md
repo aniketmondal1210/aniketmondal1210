@@ -86,7 +86,7 @@ Happy coding! 🚀
       <img src="https://skillicons.dev/icons?i=vue" height="40"/>
     </td>
 
-    <!-- BACKEND -->
+   <!-- BACKEND -->
    <td align="center" style="white-space: nowrap;">
       <img src="https://skillicons.dev/icons?i=python" height="40"/>
       <img src="https://skillicons.dev/icons?i=django" height="40"/>
