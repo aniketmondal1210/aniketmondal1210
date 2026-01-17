@@ -78,53 +78,53 @@ Happy coding! 🚀
 
   <tr>
     <!-- WEB DEV -->
-    <td align="center" style="white-space: nowrap;">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=html" height="40"/>
-      <img src="https://skillicons.dev/icons?i=css" height="40"/>
+      <img src="https://skillicons.dev/icons?i=css" height="40"/><br/>
       <img src="https://skillicons.dev/icons?i=js" height="40"/>
-      <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/><br/>
       <img src="https://skillicons.dev/icons?i=vue" height="40"/>
     </td>
 
-   <!-- BACKEND -->
-   <td align="center" style="white-space: nowrap;">
+    <!-- BACKEND -->
+   <td align="center">
       <img src="https://skillicons.dev/icons?i=python" height="40"/>
-      <img src="https://skillicons.dev/icons?i=django" height="40"/>
+      <img src="https://skillicons.dev/icons?i=django" height="40"/><br/>
       <img src="https://skillicons.dev/icons?i=flask" height="40"/>
-      <img src="https://skillicons.dev/icons?i=anaconda" height="40"/>
+      <img src="https://skillicons.dev/icons?i=anaconda" height="40"/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40"/>
       <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40"/>
     </td>
 
-   <!-- DATA SCIENCE -->
-   <td align="center" style="white-space: nowrap;">
+    <!-- DATA SCIENCE -->
+   <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/><br/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
-      <img src="https://skillicons.dev/icons?i=scikitlearn" height="40"/>
+      <img src="https://skillicons.dev/icons?i=scikitlearn" height="40"/><br/>
       <img src="https://skillicons.dev/icons?i=opencv" height="40"/>
-      <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
+      <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/><br/>
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
     </td>
 
-   <!-- DATABASES -->
-   <td align="center" style="white-space: nowrap;">
+    <!-- DATABASES -->
+   <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-      <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
+      <img src="https://skillicons.dev/icons?i=sqlite" height="40"/><br/>
       <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
     </td>
 
-   <!-- TOOLS -->
-   <td align="center" style="white-space: nowrap;">
+    <!-- TOOLS -->
+   <td align="center">
       <img src="https://skillicons.dev/icons?i=git" height="40"/>
-      <img src="https://skillicons.dev/icons?i=linux" height="40"/>
+      <img src="https://skillicons.dev/icons?i=linux" height="40"/><br/>
       <img src="https://skillicons.dev/icons?i=heroku" height="40"/>
       <img src="https://skillicons.dev/icons?i=figma" height="40"/>
     </td>
 
-   <!-- LANGUAGES -->
-   <td align="center" style="white-space: nowrap;">
+    <!-- LANGUAGES -->
+   <td align="center">
       <img src="https://skillicons.dev/icons?i=java" height="40"/>
       <img src="https://skillicons.dev/icons?i=py" height="40"/>
     </td>
