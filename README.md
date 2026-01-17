@@ -77,7 +77,7 @@ Happy coding! 🚀
   </tr>
 
   <tr>
-    <!-- WEB DEV -->
+<!-- WEB DEV -->
     <td align="center">
       <img src="https://skillicons.dev/icons?i=html" height="40"/>
       <img src="https://skillicons.dev/icons?i=css" height="40"/><br/>
@@ -86,7 +86,7 @@ Happy coding! 🚀
       <img src="https://skillicons.dev/icons?i=vue" height="40"/>
     </td>
 
-    <!-- BACKEND -->
+<!-- BACKEND -->
    <td align="center">
       <img src="https://skillicons.dev/icons?i=python" height="40"/>
       <img src="https://skillicons.dev/icons?i=django" height="40"/><br/>
@@ -96,7 +96,7 @@ Happy coding! 🚀
       <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40"/>
     </td>
 
-    <!-- DATA SCIENCE -->
+<!-- DATA SCIENCE -->
    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/><br/>
@@ -107,7 +107,7 @@ Happy coding! 🚀
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
     </td>
 
-    <!-- DATABASES -->
+<!-- DATABASES -->
    <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
       <img src="https://skillicons.dev/icons?i=sqlite" height="40"/><br/>
@@ -115,7 +115,7 @@ Happy coding! 🚀
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
     </td>
 
-    <!-- TOOLS -->
+<!-- TOOLS -->
    <td align="center">
       <img src="https://skillicons.dev/icons?i=git" height="40"/>
       <img src="https://skillicons.dev/icons?i=linux" height="40"/><br/>
@@ -123,7 +123,7 @@ Happy coding! 🚀
       <img src="https://skillicons.dev/icons?i=figma" height="40"/>
     </td>
 
-    <!-- LANGUAGES -->
+<!-- LANGUAGES -->
    <td align="center">
       <img src="https://skillicons.dev/icons?i=java" height="40"/>
       <img src="https://skillicons.dev/icons?i=py" height="40"/>
@@ -154,7 +154,7 @@ Happy coding! 🚀
           <h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
           <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
           <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketmondal1210" alt="GitHub Streak Stats"/>
-          <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
+          <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="130px" height="150px">
         </td>
       </tr>
     </table>
