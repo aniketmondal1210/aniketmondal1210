@@ -167,7 +167,7 @@ Happy coding! 🚀
 
 <p align="center"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aniketmondal1210&layout=compact&theme=default" /></p>
 
-<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketmondal1210" alt="aniketmondal1210" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketmondal1210" alt="aniketmondal1210" /></a> </p>
 
 <h2><img height="50" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"/> GitHub Contributions:</h2>
 <div align="center">
