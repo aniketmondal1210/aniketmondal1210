@@ -165,9 +165,7 @@ Happy coding! 🚀
 
 </div>
 
-
-<p align="left"><img src="https://github-readme-stats-fast.vercel.app/api?username=aniketmondal1210&show_icons=true&theme=default" /></p>
-<p align="right"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aniketmondal1210&layout=compact&theme=default" /></p>
+<p align="centre"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aniketmondal1210&layout=compact&theme=default" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketmondal1210" alt="aniketmondal1210" /></a> </p>
 
