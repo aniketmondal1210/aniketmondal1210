@@ -148,7 +148,8 @@ Happy coding! 🚀
 
   <table>
     <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=aniketmondal1210&rank_icon=percentile&show=prs_merged,prs_merged_percentage"  width="45%" alt="stats graph"  />
+      <img src="./assets/lofi-gopher-4-min.png" alt="lofi-gopher" width="310" />
+      <img src="https://github-readme-stats.vercel.app/api?username=aniketmondal1210&rank_icon=percentile&show=prs_merged,prs_merged_percentage"  width="45%" alt="stats graph"  />
     </p>
         <td align="center">
           <h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
