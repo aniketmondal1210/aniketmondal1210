@@ -148,7 +148,7 @@ Happy coding! 🚀
 
   <table>
     <p align='center'>
-      <p align="center"><img src="lofi-gopher-4-min.png" alt="lofi-gopher" width="310" /><img src="https://github-readme-stats-git-main-jsoncam.vercel.app/api?username=aniketmondal1210&show_icons=true&line_height=27&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true&text_color=e59b4f&icon_color=48ACF0&bg_color=00000000&card_width=400&show=prs_merged" alt="GitHub Stats" />
+      <p align="center"><img src="lofi-gopher-4-min.png" alt="lofi-gopher" width="310" /><img src="https://github-readme-stats-git-main-jsoncam.vercel.app/api?username=aniketmondal1210&show_icons=true&line_height=27&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=true&text_color=FFFFFF&icon_color=48ACF0&bg_color=00000000&card_width=400&show=prs_merged" alt="GitHub Stats" />
     </p>
         <td align="center">
           <h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
