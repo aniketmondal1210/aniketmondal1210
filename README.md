@@ -46,7 +46,7 @@ I'm Aniket Mondal passionate about technology and coding, a CSE(AI/ML) student p
 
 #### ⚡ Fun Fact:
 
-I'm a Guiter enthusiast and believe in the power of technology to help mankind. Looking forward to connecting with like-minded individuals and learning together!
+I'm a Guitar enthusiast and believe in the power of technology to help mankind. Looking forward to connecting with like-minded individuals and learning together!
 
 Happy coding! 🚀
 
