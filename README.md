@@ -11,7 +11,7 @@
 </a> 
 <br>
 <img src="https://img.shields.io/badge/Computer%20Science-Undergraduate-6366f1?style=flat&logo=google-scholar&logoColor=white" alt="CS Undergraduate"/>
-<img src="https://img.shields.io/badge/Academic-3rd%20Year-ec4899?style=flat&logo=openbadges&logoColor=white" alt="Third Year"/>
+<img src="https://img.shields.io/badge/Academic-3rd%20Year-ec4899?style=flat&logo=openbadges&logoColor=white" alt="Fourth Year"/>
 <br>
 <img src="https://img.shields.io/badge/AI%2FML-Developer-f97316?style=flat&logo=python&logoColor=white" alt="AI/ML Developer"/>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/aniketmondal1210"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/aniketmondal1210">
