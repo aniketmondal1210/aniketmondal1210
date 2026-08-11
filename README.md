@@ -42,7 +42,7 @@ I'm Aniket Mondal passionate about technology and coding, a CSE(AI/ML) student p
 #### 📫 How to Reach Me:
 
 - Email: aniket21destiny@gmail.com
-- Website: MyTechVoyage.com
+- Website: aniketmondal.lovable.app
 
 #### ⚡ Fun Fact:
 
